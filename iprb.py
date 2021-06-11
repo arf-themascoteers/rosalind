@@ -1,3 +1,4 @@
+#Explanation: https://noobest.medium.com/rosalind-mendels-first-law-192864d81c45
 from enum import Enum
 class Allele(Enum):
     DOMINANT = 1,
@@ -48,7 +49,7 @@ def f(k,m,n):
 
     return count_dominant_presence/count_children
 
-k = 30
-m = 21
-n = 18
+k = 2
+m = 2
+n = 2
 print(f(k,m,n))
