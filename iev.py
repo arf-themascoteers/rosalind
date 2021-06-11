@@ -52,11 +52,11 @@ def f(AAAA, AAAa, AAaa, AaAa, Aaaa, aaaa):
 
     return count_dominant_presence/2
 
-AAAA = 1
-AAAa = 0
-AAaa = 0
-AaAa = 1
-Aaaa = 0
-aaaa = 1
+AAAA = 18947
+AAAa = 17048
+AAaa = 17757
+AaAa = 18941
+Aaaa = 17458
+aaaa = 17275
 
 print(f(AAAA, AAAa, AAaa, AaAa, Aaaa, aaaa))
