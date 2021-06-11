@@ -1,4 +1,4 @@
-#Explanation: https://noobest.medium.com/rosalind-mendels-first-law-192864d81c45
+#Explanation: https://noobest.medium.com/rosalind-calculating-expected-offspring-bcb76544d55e
 from enum import Enum
 class Allele(Enum):
     DOMINANT = 1,
