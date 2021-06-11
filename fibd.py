@@ -1,3 +1,4 @@
+# Explanation https://noobest.medium.com/rosalind-mortal-fibonacci-rabbits-8c8e83c359db
 import numpy as np
 
 def f(n,m):
